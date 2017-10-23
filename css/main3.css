@@ -1,0 +1,33 @@
+#box_1 { 
+    position: relative;
+    width: 200px;
+	height: 200px;
+    background: #ee3e64;
+    
+}
+
+#box_2 { 
+    left: 200px;
+	position: relative;
+	width: 200px;
+	height: 200px;
+    background: #44accf;
+    top: 200px;
+}
+
+#box_3 { 
+	position: relative;
+	width: 200px;
+	height: 200px;
+    background:#b7d84b;
+    top: 200px;
+    left: 0px;
+    
+}
+
+a {
+    left: 250px;
+    position: relative;
+    bottom: -155px;
+    font-size: 1.5em;
+}

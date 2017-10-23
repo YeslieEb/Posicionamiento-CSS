@@ -1,0 +1,30 @@
+#box_1 { 
+    position: static;
+    padding: 10px;
+	width: 180px;
+	height: 180px;
+	background: #ee3e64;
+}
+
+#box_2 { 
+    position: static;
+    padding: 10px;
+	height: 180px;
+    width: 180px;
+    background: #44accf;: 200px;
+}
+
+#box_3 { 
+    position: static;
+    padding: 10px;
+	width: 180px;
+	height: 180px;
+    background: #b7d84b;
+}
+
+a {
+    left: 250px;
+    position: absolute;
+    bottom: 50px;
+    font-size: 1.5em;
+}
